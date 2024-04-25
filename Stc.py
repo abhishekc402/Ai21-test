@@ -45,7 +45,7 @@ def main():
     st.title("AI21 Chat Tool")
 
     # Provide your API key here
-    api_key = "NxUgDvHHuMqon94X6esghP1EzG4VYEmm"
+    api_key = "your key"
 
     user_input = st.text_input("You:")
     if st.button("Send"):
