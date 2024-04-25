@@ -49,7 +49,7 @@ def main():
     print("You can start chatting. Type 'exit' to end the conversation.")
     
     # Provide your API key here
-    api_key = "NxUgDvHHuMqon94X6esghP1EzG4VYEmm"
+    api_key = "key"
     
     while True:
         user_input = input("You: ")
